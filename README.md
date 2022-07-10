@@ -14,7 +14,7 @@ Daha önce yapılmış programlara göre daha kolay bir arayüz kullandık. Rehb
 
 # The Project's Video
 
-[The Project's Video](https://drive.google.com/file/d/19aDZFAWqEU2LRlULBqwW8ZgEq16OOtQj/view?usp=sharing)
+[The Project's Video](https://drive.google.com/file/d/1bGi8JO8P13kq-9Q9gnC-28IIzjSZ8m_N/view?usp=sharing)
 
 # Technologies To Be Used (Kullanılacak Teknolojiler)
 
