@@ -12,6 +12,9 @@ Telefona ihtiyaç kalmadan bilgisayar üzerinden telefon rehberi işlemlerini ya
 # Research (Daha önce ne tür çalışmalar yapılmış neler eksik ? Buna ek olarak yapılacaklar.)
 Daha önce yapılmış programlara göre daha kolay bir arayüz kullandık. Rehber yedekleme işlemine gerek kalmadan başka bir cihaza online bir şekilde direk rehber gönderimi  yapabiliyoruz.Kişiye özgü login paneli ile sadece kurulu bilgisayarla kısıtlı kalmayıp herhangi bir windows cihazda kolaylıkla erişim sağlıyoruz. 
 
+# The Project's Video
+
+[The Project's Video](https://drive.google.com/file/d/19aDZFAWqEU2LRlULBqwW8ZgEq16OOtQj/view?usp=sharing)
 
 # Technologies To Be Used (Kullanılacak Teknolojiler)
 
